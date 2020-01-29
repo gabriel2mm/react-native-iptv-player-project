@@ -1,0 +1,5 @@
+export default {
+    ASYNC_LOGIN : 'ASYNC_LOGIN',
+    LOGIN_SUCCESS : 'LOGIN_SUCCESS',
+    LOGIN_FAILD : 'LOGIN_FAILD'
+}
